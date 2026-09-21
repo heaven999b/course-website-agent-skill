@@ -1,0 +1,4 @@
+interface:
+  display_name: "Course Website Agent"
+  short_description: "Assist with explicitly AI-permitted course activities"
+  default_prompt: "Use $course-website-agent-skill to help with an AI-permitted activity on my school course website."
