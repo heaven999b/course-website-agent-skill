@@ -1,4 +1,4 @@
-# Course Website Agent Skill
+# 作业越狱 Skill
 
 A small Codex skill for navigating a school course website and assisting with activities only when the course or instructor explicitly permits the use of AI.
 
@@ -15,14 +15,14 @@ The author does not support AI-assisted cheating. The author believes that genui
 
 ## Installation
 
-Copy the `course-website-agent-skill` folder into your Codex skills directory, or install it from this repository using your preferred Codex skill installation workflow.
+Copy the `homework-jailbreak-skill` folder into your Codex skills directory, or install it from this repository using your preferred Codex skill installation workflow.
 
 ## Usage
 
 Invoke the skill with a prompt such as:
 
 ```text
-Use $course-website-agent-skill to help with an AI-permitted activity on my school's course website.
+Use $homework-jailbreak-skill to help with an AI-permitted activity on my school's course website.
 ```
 
 Replace `_____` with the course name before use. The agent should use an existing authenticated session and will leave credentials or authentication challenges to the user.

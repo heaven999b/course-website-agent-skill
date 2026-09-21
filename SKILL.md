@@ -1,9 +1,9 @@
 ---
-name: course-website-agent-skill
+name: homework-jailbreak-skill
 description: Assist with navigation and explicitly AI-permitted activities on a school course website. Use only when the user states that the course or instructor permits AI assistance; otherwise limit help to studying and explaining course material.
 ---
 
-# Course Website Agent
+# 作业越狱 Skill
 
 Help the user navigate their school course website and complete only activities for which they have stated that AI assistance is permitted.
 
